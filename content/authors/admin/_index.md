@@ -19,8 +19,8 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Yonsei University
+  url: https://www.yonsei.ac.kr/sc/
 role: Professor of Artificial Intelligence
 social:
 - icon: envelope
