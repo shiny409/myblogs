@@ -7,5 +7,5 @@ image:
 summary: An example of linking directly to an external project website using `dspubs.org`.
 tags:
 - Demo
-title: 연습중
+title: 연습
 ---
