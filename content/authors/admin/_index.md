@@ -15,13 +15,17 @@ education:
 email: ""
 highlight_name: false
 interests:
+- Environmental Engineering
+- Water Quality 
+- Carbon capture&storage
+- Renewable Energy
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
 organizations:
 - name: Yonsei University
   url: https://www.yonsei.ac.kr/sc/
-role: Professor of Artificial Intelligence
+role: Ph.D student of Preventive Medicine
 social:
 - icon: envelope
   icon_pack: fas
