@@ -1,17 +1,17 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: My research interests include distributed Environmental, Public Health and programmable
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Public Health & Preventive Medicine
+    institution: Yonsei University
+    year: 2020~
+  - course: MEng in Environmental Engineering
+    institution: Ewha Womans University
+    year: 2018
+  - course: BSc in Environmental Engineering
+    institution: Ewha Womans University
+    year: 2014
 email: ""
 highlight_name: false
 interests:
@@ -21,7 +21,7 @@ interests:
 - Renewable Energy
 - Artificial Intelligence
 - Computational Linguistics
-- Information Retrieval
+
 organizations:
 - name: Yonsei University
   url: https://www.yonsei.ac.kr/sc/
@@ -49,8 +49,8 @@ superuser: true
 title: 우신영
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+안녕하세요 우신영입니다.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
